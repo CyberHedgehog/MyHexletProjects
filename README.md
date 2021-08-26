@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Мои выполненные проекты на hexlet.io
+## Node.js
+1. [Brain games](https://github.com/CyberHedgehog/project-lvl1-s490)  
+**Описание:** консольная программа с играми-задачами  
+**Цель проекта:** освоить навыки работы с Node.js, настройкой окружения, создания npm пакета  
+**Использованные библиотеки и сервисы:** Node.js, travis-ci, babel, eslint  
+2. [Вычислитель отличий](https://github.com/CyberHedgehog/project-lvl2-s491)  
+**Описание:** консольная программа для сравнения файлов `json, yml, ini`.  
+**Цель проекта:** освоить навыки создания консольных утилит, работы с файлами, написания тестов  
+**Использованные библиотеки и сервисы:** travis-ci, babel, eslint, jest, commander  
+3. [Загрузчик страниц](https://github.com/CyberHedgehog/backend-project-lvl3)  
+**Описание:** утилита командной строки, которая скачивает страницы из интернета и сохраняет их на компьютере. Вместе со страницей она скачивает все ресурсы (картинки, стили и js) давая возможность открывать страницу без интернета.  
+**Цель проекта:** освоить навыки написания асинхронного кода, построения приложения, создания абстракций  
+**Использованные библиотеки и сервисы:** axios, cheerio, jest, nock  
+4. [Менеджер задач](https://github.com/CyberHedgehog/backend-project-lvl4)  
+**Описание:** веб приложение, в котором пользователи могут создавать и назначать задачи   
+**Цель проекта:** научиться создавать полноценные сайты на Node.js и разворачивать их на хостинге  
+**Использованные библиотеки и сервисы:** fastify, knex, objection, i18n, webpack, bootstrap, postcss, postgres, github-actions
 
-You can use the [editor on GitHub](https://github.com/CyberHedgehog/MyHexletProjects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyberHedgehog/MyHexletProjects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Ruby
+1. [Генератор форм](https://github.com/CyberHedgehog/rails-project-lvl1)  
+**Описание:** библиотека для создания html-форм  
+**Цель проекта:** научиться работать с экосистемой Ruby, создавать гемы
+**Использованные библиотеки:** bundler, rubocop
